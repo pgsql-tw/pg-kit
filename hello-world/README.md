@@ -19,7 +19,3 @@ $ sh show-pg-variables.sh
 $ psql -f hello-world.sql
 ```
 
-## Contribution
-給想要協作工具包的朋友：
-1. README 至少包含台灣中文的說明。
-2. 請一致採用 PostgreSQL 環境變數作為預設的參數。
