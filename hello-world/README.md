@@ -1,9 +1,13 @@
 # Hello World
-> The contents is written in Taiwan Mandarin. Check your encoding is UTF-8, please.
+> The contents are written in Taiwan Mandarin. Check your encoding is UTF-8, please.
 
 作為工具包的範例，並且供使用者測試 PostgreSQL 連線。
 - 請自行先安裝好 PostgreSQL
 - 以下列步驟進行連線測試
+
+# Requirements
+1. 一般的 Linux 作業系統。
+2. psql 已安裝。
 
 ## Usage
 1. 將 PostgreSQL 連線參數以環境變數方式設定
