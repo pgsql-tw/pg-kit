@@ -23,3 +23,18 @@ $ sh show-pg-variables.sh
 $ psql -f hello-world.sql
 ```
 
+## Results
+```
+ Your databases
+----------------
+ postgres
+ pgbench
+ template1
+ template0
+(4 rows)
+
+ pgsql-tw 歡迎你! |         我們的網址         |           pg-kit@github            |           現在時間
+------------------+----------------------------+------------------------------------+-------------------------------
+ Hello World!     | https://pgsql-tw.github.io | https://github.com/pgsql-tw/pg-kit | 2017-09-14 15:26:15.073866+08
+(1 row)
+```
