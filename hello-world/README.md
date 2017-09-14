@@ -1,4 +1,6 @@
 # Hello World
+> The contents is written in Taiwan Mandarin. Check your encoding is UTF-8, please.
+
 作為工具包的範例，並且供使用者測試 PostgreSQL 連線。
 - 請自行先安裝好 PostgreSQL
 - 以下列步驟進行連線測試
@@ -18,3 +20,6 @@ $ psql -f hello-world.sql
 ```
 
 ## Contribution
+給想要協作工具包的朋友：
+1. README 至少包含台灣中文的說明。
+2. 請一致採用 PostgreSQL 環境變數作為預設的參數。
