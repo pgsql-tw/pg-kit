@@ -16,4 +16,4 @@ echo Database of PostgreSQL:
 read PGDATABASE
 export PGDATABASE=$PGDATABASE
 
-echo Execute "sh show-pg-variables.sh" to varify your settings.
+echo Execute \"sh show-pg-variables.sh\" to varify your settings.
