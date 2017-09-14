@@ -18,3 +18,9 @@ pg-kit 是由台灣使用者社群推出的 PostgreSQL 萬用指令包，透過�
 - PGPORT
 - PGDATABASE
 - PGUSER
+
+## Contribution
+給想要協作工具包的朋友：
+1. 參考 hello-world 的內容，再將你的情境新增目錄，送上 PR。
+1. README 至少包含台灣中文的說明。
+2. 請一致採用 PostgreSQL 環境變數作為預設的參數。
