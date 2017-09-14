@@ -6,7 +6,7 @@ pg-kit 是由台灣使用者社群推出的 PostgreSQL 萬用指令包，透過�
 2. 可自行連線 PostgreSQL 進行查詢指令。
 3. 基本 Linux 系統操作。
 
-## Usages
+## Usage
 1. 使用 git clone 本專案內容。
 2. 設定好 PostgreSQL 環境變數，指令集將會以其為預設操作參數。
 3. 參考各目錄中的 README.md 的內容進行操作。
