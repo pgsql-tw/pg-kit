@@ -1,0 +1,7 @@
+#!/bin/sh
+
+echo PGHOST=$PGHOST
+echo PGPORT=$PGPORT
+echo PGUSER=$PGUSER
+echo PGDATABASE=$PGDATABASE
+
